@@ -4,9 +4,12 @@
 
 This project is a fully fledged Sudoku application built with Python, featuring a graphical user interface (GUI) and a solver. The user is presented with a randomized solvable Sudoku board, and can insert "sketched-in" numbers into the fields without restriction. However, to definitively place a number, the program checks if the number leads to a valid solution.
 
+## Preview 
+<img src="./gui-sudoku-preview.png" width=500>
+
 ## Features
 
-* Randomized and solvable Sudoku board generation at runtime;
+* Randomized solvable Sudoku board generation at runtime;
 * Graphical user interface (GUI) using the Pygame library;
 * "Sketching" mode for inserting temporary numbers;
 * Real-time board validation for checking if a placed number is valid;
@@ -14,6 +17,8 @@ This project is a fully fledged Sudoku application built with Python, featuring 
 * Timer for testing your performance on solving the board;
 * Systems that keeps track of the wrong entries;
 * Extended use of the core OOP principles;
+
+
 
 
 ## Installation 
