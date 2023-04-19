@@ -10,7 +10,7 @@ This project is a fully fledged Sudoku application built with Python, featuring 
 ## Features
 
 * Randomized solvable Sudoku board generation at runtime;
-* Graphical user interface (GUI) using the Pygame library;
+* Graphical user interface using the Pygame library;
 * "Sketching" mode for inserting temporary numbers;
 * Real-time board validation for checking if a placed number is valid;
 * Solver algorithm to solve given Sudoku board (or determine if is invalid);
